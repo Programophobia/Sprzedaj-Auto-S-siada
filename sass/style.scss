@@ -2,3 +2,9 @@
 .displayItems {
     display: inline-flex;
 }
+
+@media (max-width: 767px) {
+    .displayItems {
+        display: block;
+    }
+}
