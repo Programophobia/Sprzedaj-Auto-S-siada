@@ -2,10 +2,20 @@
   display: inline-flex;
 }
 
+.navbar {
+  align-items: center;
+}
+
+.name {
+  color: white;
+  font-size: 30px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
 @media (max-width: 767px) {
   .displayItems {
     display: block;
   }
 }
 
-/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3Nhc3Mvc3R5bGUuc2NzcyIsInN0eWxlLmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQTtFQUNJLG9CQUFBO0FDQUo7O0FER0E7RUFDSTtJQUNJLGNBQUE7RUNBTjtBQUNGIiwiZmlsZSI6InN0eWxlLmNzcyJ9 */
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3Nhc3Mvc3R5bGUuc2NzcyIsInN0eWxlLmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQTtFQUNJLG9CQUFBO0FDQUo7O0FER0E7RUFDSSxtQkFBQTtBQ0FKOztBREVBO0VBQ0ksWUFBQTtFQUNBLGVBQUE7RUFDQSw0REFBQTtBQ0NKOztBRENBO0VBQ0k7SUFDSSxjQUFBO0VDRU47QUFDRiIsImZpbGUiOiJzdHlsZS5jc3MifQ== */

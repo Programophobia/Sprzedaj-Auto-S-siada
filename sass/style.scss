@@ -3,6 +3,14 @@
     display: inline-flex;
 }
 
+.navbar {
+    align-items: center;
+}
+.name {
+    color: white;
+    font-size: 30px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
 @media (max-width: 767px) {
     .displayItems {
         display: block;
